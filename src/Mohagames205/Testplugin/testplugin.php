@@ -3,7 +3,7 @@
 namespace Testplugin;
 
 use pocketmine\utils\TextFormat as C;
-use pocketmin\plugin\PluginBase;
+use pocketmine\plugin\PluginBase;
 use Testplugin\Main;
 
 class Main extends PluginBase {
