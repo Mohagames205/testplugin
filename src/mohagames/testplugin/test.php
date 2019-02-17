@@ -10,3 +10,5 @@ class test extends PluginBase {
         $this->getLogger()->info(C::GREEN . "Plugin is geactiveerd!");
     }
 }
+
+?>
