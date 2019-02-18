@@ -1,5 +1,5 @@
 name: Testplugin
-main: mohagames\testplugin\test
+main: mohagames\testplugin\testplugin
 version: 0.0.1
 api: 3.6.2
 author: Mohagames205
