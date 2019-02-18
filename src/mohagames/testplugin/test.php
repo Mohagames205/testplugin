@@ -1,6 +1,6 @@
 <?php
 
-namespace Testplugin;
+namespace testplugin;
 
 use pocketmine\utils\TextFormat as C;
 use pocketmine\plugin\PluginBase;
