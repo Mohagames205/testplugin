@@ -1,6 +1,6 @@
 <?php
 
-namespace testplugin;
+namespace mohagames\testplugin;
 
 use pocketmine\utils\TextFormat as C;
 use pocketmine\plugin\PluginBase;
