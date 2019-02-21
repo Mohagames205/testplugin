@@ -13,7 +13,7 @@ class testplugin extends PluginBase {
 
     }
 
-    public function on_Command(CommandSender $sender, Command $command, string $label, array $args) : bool{
+    public function onCommand(CommandSender $sender, Command $command, string $label, array $args) : bool{
         switch($command->getName()){
             case "test":
                 $sender->sendMessage("Hey hoi" . $sender->getName());
