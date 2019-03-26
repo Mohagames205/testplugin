@@ -9,7 +9,6 @@ use pocketmine\plugin\PluginBase;
 use pocketmine\command\Command;
 use pocketmine\command\CommandSender;
 use pocketmine\event\player\PlayerJoinEvent;
-use pocketmine\event\player;
 
 class testplugin extends PluginBase{
     public function onEnable(){
