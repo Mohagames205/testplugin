@@ -32,6 +32,7 @@ class testplugin extends PluginBase{
         $player = $this->getPlayer();
         $skin = $player->getSkin();
         var_dump($skin);
+        $this->getLogger()->info(C::GREEN . "ABC");
 
 
 

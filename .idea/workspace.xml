@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a210a6ce-3e9c-4c15-996d-eac3420b7d5f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/mohagames/testplugin/testplugin.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/mohagames/testplugin/testplugin.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,8 +25,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/mohagames/testplugin/testplugin.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+            <state relative-caret-position="560">
+              <caret line="34" column="48" selection-start-line="34" selection-start-column="48" selection-end-line="34" selection-end-column="48" />
               <folding>
                 <element signature="e#40#77#0#PHP" expanded="true" />
               </folding>
@@ -47,7 +46,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="260" />
     <option name="y" value="20" />
     <option name="width" value="1400" />
@@ -94,12 +93,12 @@
       <workItem from="1550765642364" duration="727000" />
       <workItem from="1550948032491" duration="62000" />
       <workItem from="1553617545665" duration="66000" />
-      <workItem from="1553617629144" duration="690000" />
+      <workItem from="1553617629144" duration="822000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1697000" />
+    <option name="totallyTimeSpent" value="1829000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -138,8 +137,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/mohagames/testplugin/testplugin.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+        <state relative-caret-position="560">
+          <caret line="34" column="48" selection-start-line="34" selection-start-column="48" selection-end-line="34" selection-end-column="48" />
           <folding>
             <element signature="e#40#77#0#PHP" expanded="true" />
           </folding>
