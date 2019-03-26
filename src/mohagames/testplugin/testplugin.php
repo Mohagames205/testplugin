@@ -3,11 +3,15 @@
 namespace mohagames\testplugin;
 
 use pocketmine\utils\TextFormat as C;
+use pocketmine\Server;
+use pocketmine\Player;
 use pocketmine\plugin\PluginBase;
 use pocketmine\command\Command;
 use pocketmine\command\CommandSender;
+use pocketmine\event\player\PlayerJoinEvent;
+use pocketmine\event\player;
 
-class testplugin extends PluginBase {
+class testplugin extends PluginBase{
     public function onEnable(){
         $this->getLogger()->info(C::GREEN . "JAAAAAAAAA MIJN PLUGIN WERKT");
 
@@ -24,4 +28,14 @@ class testplugin extends PluginBase {
                 
         }
     }
+
+    public function onJoin(PlayerJoinEvent $pj) {
+        $player = $this->getPlayer();
+        $skin = $player->getSkin();
+        var_dump($skin);
+
+
+
+    }
+
 }
