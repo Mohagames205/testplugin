@@ -3,3 +3,18 @@ main: mohagames\testplugin\testplugin
 version: 0.0.1
 api: 3.6.2
 author: Mohagames205
+
+load: POSTWORLD
+author: Mohagames205
+description: Testplugin
+website: https://github.com/Mohagames205/testplugin
+
+commands:
+ test:
+  description: test
+  usage: "/test"
+  permission: testplugin.command.test
+permissions:
+ testplugin.command.test:
+  description: "Allows the user to run the example command"
+  default: true
